@@ -1,1 +1,1 @@
-alert("Git is Awesome!");
+alert(prompt("What is your name?"));
