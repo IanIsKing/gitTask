@@ -1,0 +1,9 @@
+/* change the text colour of p tags to white */
+
+p {
+  color: white;
+}
+
+body {
+  text-align: center;
+}
